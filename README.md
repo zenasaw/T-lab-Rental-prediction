@@ -5,7 +5,8 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is __to learn how to code and utilize GitHub______. It is also to learn how to contextualize our code in responding to the data inquiry. This can help answer many civic questions about housing and other social services related inquiries (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
 
 ### Methods Used
 * Inferential Statistics
@@ -26,3 +27,5 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+I was initially facing difficulty in setting up my github to my visual studio code. Understandning how to download everything and inputing all the coding in the terminal is the hardest part. Learning how to code afterwords is much easier as there are straight manuals for it. I utilized all the lessons provided so that I can solve the retal-pricing T-lab.
